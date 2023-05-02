@@ -1,2 +1,2 @@
-# cnn_birdsong_classification
+# cnn-birdsong-classification
 Birdsong classification using Convolutional Neural Network
