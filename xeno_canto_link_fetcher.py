@@ -20,7 +20,7 @@ if __name__ == '__main__':
 
                 for recording in recordings:
                     species = recording['en']
-                    if species == "Identity unknown":
+                    if species == "Identity unknown" or species == "Soundscape":
                         continue
                     file_url = recording['file']
 
